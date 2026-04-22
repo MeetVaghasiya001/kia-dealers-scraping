@@ -2,13 +2,19 @@ from parser import *
 from concurrent.futures import ThreadPoolExecutor
 from db import *
 from model import *
-state_api = 'https://www.kia.com/api/kia2_in/findAdealer.getStateCity.do'
-city_api = 'https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do'
+import time
 
-all_states = all_state_data(state_api)
-all_kia_data = []
-create_db()
+st = time.time()
+state_api = 'https://www.kia.com/api/kia2_in/findAdealer.getStateCity.do' # state api retrun all codes and state and city name
+city_api = 'https://www.kia.com/api/kia2_in/findAdealer.getDealerList.do'# it retrun all city store data in json form
+
+all_states = all_state_data(state_api) # it return store.json
+all_kia_data = [] # all data was store in this list
+create_db() # it create kia table
 count = 0
+
+
+# this function was extract store data and all in all_kia_data 
 def process(data):
     global count
     params = {}
@@ -25,10 +31,12 @@ def process(data):
         city_code = c.get('city_code')
         params['city'] = city_code
 
+        # it is request delers api for get store data
         responce = json.loads(request(city_api,params))
 
         stores_json = responce.get('data')
 
+        # all stores for 1 city was itrate hear
         stores = []
         for s in stores_json:
             address = [s.get('address1'),s.get('address2'),s.get('address3')]
@@ -44,30 +52,34 @@ def process(data):
 
             count += 1
             
-
+        # store was add in store_data dict
         store_data['all_stores'].append({
             'city': c.get('city_name'),
             'stores': stores
         })
 
     print(store_data.get('state_name'))
+    # it validate store_data and then return it
     validate = State(**store_data)
     return validate.model_dump()
 
-
+# it create 8 threads for make work fast and all_kia_data list for itrate 
 with ThreadPoolExecutor(max_workers=8) as executor:
     all_kia_data = list(executor.map(process, all_states))
 
-    conn,cur = connection()
+    row = []
     store_count = 0
+    # it is itrate all stores and add it in db 
     for a in all_kia_data:
+        # it skip none data 
+        if not a:
+            continue
+
         for s in a.get('all_stores'):
             store_count +=1
             for store in s.get('stores'):
 
-                cur.execute("""
-                    INSERT INTO kia(state_name,store_id,store_name,url,full_address,phone1,phone2,dealer_type) VALUES(%s,%s,%s,%s,%s,%s,%s,%s)
-                """,(
+                row.append((
                     a.get('state_name'),
                     store.get('id'),
                     store.get('store_name'),
@@ -78,10 +90,20 @@ with ThreadPoolExecutor(max_workers=8) as executor:
                     store.get('dealer_type')
                 ))
 
-                conn.commit()
-            print(f'{store_count} city was add!!')
+                # this is add 100 data when length of row is 100
+                if len(row) == 100:
+                    insert_data(row)
+                    row.clear()
 
-conn.close()
+# if there is any data in row then this is add in db 
+if row:
+    insert_data(row)
+
 print(count)
+# it dumps all_kia_data json 
 with open('kia.json','w',encoding='utf-8') as f:
-    json.dump(all_kia_data,f,indent=4,default=str)
+    json.dump(all_kia_data,f,indent=4,default=str,ensure_ascii=False)
+
+# it calculate run time of program
+et = time.time()
+print(f'total time :{(et-st)/60:.2f}')

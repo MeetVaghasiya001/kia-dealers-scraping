@@ -1,6 +1,7 @@
 import mysql.connector
 
 
+# it it use to create db connection
 def connection():
     conn = mysql.connector.connect(
         host="localhost",
@@ -13,7 +14,7 @@ def connection():
 
     return conn,cur 
 
-
+# it create databse table 
 def create_db():
     conn,cur = connection()
     cur.execute("""
@@ -31,6 +32,17 @@ def create_db():
 
     """)
 
+    conn.commit()
+    conn.close()
+
+
+# it insert 100 rows at the time
+def insert_data(data):
+    query = """INSERT INTO kia(state_name,store_id,store_name,url,full_address,phone1,phone2,dealer_type) VALUES(%s,%s,%s,%s,%s,%s,%s,%s)"""
+    conn,cur = connection()
+
+    cur.executemany(query,data)
+    print(f'100 row was add!')
     conn.commit()
     conn.close()
 

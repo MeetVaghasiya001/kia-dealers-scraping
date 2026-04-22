@@ -1,10 +1,10 @@
 from request_data import request 
-import requests as re
 import json
 
 state_api = 'https://www.kia.com/api/kia2_in/findAdealer.getStateCity.do'
 
 
+# it retrun store.json in that all state and city data was store
 def all_state_data(state_api):
     state_data = json.loads(request(state_api))
 

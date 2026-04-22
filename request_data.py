@@ -39,7 +39,7 @@ def request(url,params = None):
     }
 
     
-
+    # it retrun api responce in text 
     response = re.get(url, params = params,cookies=cookies,headers=headers)
     if response.status_code == 200:
         return response.text

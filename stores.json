@@ -1,0 +1,1750 @@
+[
+    {
+        "state_code": "AN",
+        "state_name": "Andaman and Nico.Is.",
+        "cities": [
+            {
+                "city_code": "EEE",
+                "city_name": "Port Blair"
+            }
+        ]
+    },
+    {
+        "state_code": "AP",
+        "state_name": "Andhra Pradesh",
+        "cities": [
+            {
+                "city_code": "S99",
+                "city_name": "Anantpur"
+            },
+            {
+                "city_code": "S61",
+                "city_name": "Bhimavaram"
+            },
+            {
+                "city_code": "SEE",
+                "city_name": "Chittoor"
+            },
+            {
+                "city_code": "S57",
+                "city_name": "Guntur"
+            },
+            {
+                "city_code": "SEL",
+                "city_name": "Kadappa"
+            },
+            {
+                "city_code": "S34",
+                "city_name": "Kakinada"
+            },
+            {
+                "city_code": "S56",
+                "city_name": "Kurnool"
+            },
+            {
+                "city_code": "SGG",
+                "city_name": "Nandyal"
+            },
+            {
+                "city_code": "S54",
+                "city_name": "Nellore"
+            },
+            {
+                "city_code": "S64",
+                "city_name": "Ongole"
+            },
+            {
+                "city_code": "S53",
+                "city_name": "Rajahmundry"
+            },
+            {
+                "city_code": "S63",
+                "city_name": "Tirupati"
+            },
+            {
+                "city_code": "S51",
+                "city_name": "Vijayawada"
+            },
+            {
+                "city_code": "P33",
+                "city_name": "Vishakhapatnam"
+            }
+        ]
+    },
+    {
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "cities": [
+            {
+                "city_code": "E45",
+                "city_name": "Itanagar"
+            }
+        ]
+    },
+    {
+        "state_code": "AS",
+        "state_name": "Assam",
+        "cities": [
+            {
+                "city_code": "E53",
+                "city_name": "Bongaigaon"
+            },
+            {
+                "city_code": "E41",
+                "city_name": "Dibrugarh"
+            },
+            {
+                "city_code": "E40",
+                "city_name": "Guwahati"
+            },
+            {
+                "city_code": "E49",
+                "city_name": "Jorhat"
+            },
+            {
+                "city_code": "E51",
+                "city_name": "Nagaon"
+            },
+            {
+                "city_code": "E50",
+                "city_name": "Silchar"
+            },
+            {
+                "city_code": "E56",
+                "city_name": "Tezpur"
+            },
+            {
+                "city_code": "E52",
+                "city_name": "Tinsukia"
+            }
+        ]
+    },
+    {
+        "state_code": "BR",
+        "state_name": "Bihar",
+        "cities": [
+            {
+                "city_code": "EAK",
+                "city_name": "BEGUSARAI"
+            },
+            {
+                "city_code": "E79",
+                "city_name": "Bettiah"
+            },
+            {
+                "city_code": "E68",
+                "city_name": "Bhagalpur"
+            },
+            {
+                "city_code": "EAF",
+                "city_name": "Darbhanga"
+            },
+            {
+                "city_code": "E65",
+                "city_name": "Gaya"
+            },
+            {
+                "city_code": "EDE",
+                "city_name": "Gopalganj"
+            },
+            {
+                "city_code": "E83",
+                "city_name": "Hajipur"
+            },
+            {
+                "city_code": "E98",
+                "city_name": "Motihari"
+            },
+            {
+                "city_code": "E66",
+                "city_name": "Muzaffarpur"
+            },
+            {
+                "city_code": "E60",
+                "city_name": "Patna"
+            },
+            {
+                "city_code": "EAH",
+                "city_name": "Purnia"
+            }
+        ]
+    },
+    {
+        "state_code": "CH",
+        "state_name": "Chandigarh",
+        "cities": [
+            {
+                "city_code": "N70",
+                "city_name": "Chandigarh"
+            }
+        ]
+    },
+    {
+        "state_code": "CG",
+        "state_name": "Chhattisgarh",
+        "cities": [
+            {
+                "city_code": "WCX",
+                "city_name": "AMBIKAPUR"
+            },
+            {
+                "city_code": "W58",
+                "city_name": "Bhilai"
+            },
+            {
+                "city_code": "W56",
+                "city_name": "Bilaspur"
+            },
+            {
+                "city_code": "W74",
+                "city_name": "Dhamtari"
+            },
+            {
+                "city_code": "W71",
+                "city_name": "Jagdalpur"
+            },
+            {
+                "city_code": "W93",
+                "city_name": "Janjgir"
+            },
+            {
+                "city_code": "W62",
+                "city_name": "Korba"
+            },
+            {
+                "city_code": "WCW",
+                "city_name": "RAIGARH"
+            },
+            {
+                "city_code": "W54",
+                "city_name": "Raipur"
+            },
+            {
+                "city_code": "W83",
+                "city_name": "Rajnandgaon"
+            }
+        ]
+    },
+    {
+        "state_code": "DL",
+        "state_name": "Delhi",
+        "cities": [
+            {
+                "city_code": "N10",
+                "city_name": "Delhi"
+            }
+        ]
+    },
+    {
+        "state_code": "GA",
+        "state_name": "Goa",
+        "cities": [
+            {
+                "city_code": "W60",
+                "city_name": "Goa"
+            }
+        ]
+    },
+    {
+        "state_code": "GJ",
+        "state_name": "Gujarat",
+        "cities": [
+            {
+                "city_code": "WCF",
+                "city_name": "AMRELI"
+            },
+            {
+                "city_code": "W30",
+                "city_name": "Ahmedabad"
+            },
+            {
+                "city_code": "W36",
+                "city_name": "Anand"
+            },
+            {
+                "city_code": "WAH",
+                "city_name": "Ankleshwar"
+            },
+            {
+                "city_code": "W73",
+                "city_name": "Bardoli"
+            },
+            {
+                "city_code": "W49",
+                "city_name": "Bharuch"
+            },
+            {
+                "city_code": "W64",
+                "city_name": "Bhavnagar"
+            },
+            {
+                "city_code": "WCC",
+                "city_name": "Bhuj"
+            },
+            {
+                "city_code": "W34",
+                "city_name": "Gandhidham"
+            },
+            {
+                "city_code": "W44",
+                "city_name": "Gandhinagar"
+            },
+            {
+                "city_code": "W68",
+                "city_name": "Godhra"
+            },
+            {
+                "city_code": "W47",
+                "city_name": "Himmatnagar"
+            },
+            {
+                "city_code": "W39",
+                "city_name": "Jamnagar"
+            },
+            {
+                "city_code": "WEW",
+                "city_name": "Jasdan"
+            },
+            {
+                "city_code": "W40",
+                "city_name": "Junagadh"
+            },
+            {
+                "city_code": "WFE",
+                "city_name": "Khambhalia"
+            },
+            {
+                "city_code": "W35",
+                "city_name": "Mehsana"
+            },
+            {
+                "city_code": "WAL",
+                "city_name": "Morbi"
+            },
+            {
+                "city_code": "WCM",
+                "city_name": "NADIAD"
+            },
+            {
+                "city_code": "W65",
+                "city_name": "Navsari"
+            },
+            {
+                "city_code": "W67",
+                "city_name": "Palanpur"
+            },
+            {
+                "city_code": "W23",
+                "city_name": "Patan"
+            },
+            {
+                "city_code": "WCH",
+                "city_name": "Porbandar"
+            },
+            {
+                "city_code": "W31",
+                "city_name": "Rajkot"
+            },
+            {
+                "city_code": "WAJ",
+                "city_name": "Sanand"
+            },
+            {
+                "city_code": "W32",
+                "city_name": "Surat"
+            },
+            {
+                "city_code": "WCI",
+                "city_name": "Surendranagar"
+            },
+            {
+                "city_code": "WCR",
+                "city_name": "VALSAD"
+            },
+            {
+                "city_code": "W33",
+                "city_name": "Vadodara"
+            },
+            {
+                "city_code": "W37",
+                "city_name": "Vapi"
+            },
+            {
+                "city_code": "W99",
+                "city_name": "Vyara"
+            }
+        ]
+    },
+    {
+        "state_code": "HR",
+        "state_name": "Haryana",
+        "cities": [
+            {
+                "city_code": "N24",
+                "city_name": "Ambala"
+            },
+            {
+                "city_code": "NBE",
+                "city_name": "Bahadurgarh"
+            },
+            {
+                "city_code": "N74",
+                "city_name": "Bhiwani"
+            },
+            {
+                "city_code": "NBJ",
+                "city_name": "Charkhi Dadri"
+            },
+            {
+                "city_code": "N22",
+                "city_name": "Faridabad"
+            },
+            {
+                "city_code": "NCO",
+                "city_name": "Gohana"
+            },
+            {
+                "city_code": "N20",
+                "city_name": "Gurgaon"
+            },
+            {
+                "city_code": "N23",
+                "city_name": "Hisar"
+            },
+            {
+                "city_code": "NIT",
+                "city_name": "Jind"
+            },
+            {
+                "city_code": "N15",
+                "city_name": "Kaithal"
+            },
+            {
+                "city_code": "N21",
+                "city_name": "Karnal"
+            },
+            {
+                "city_code": "N77",
+                "city_name": "Kurukshetra"
+            },
+            {
+                "city_code": "NCQ",
+                "city_name": "MANESAR"
+            },
+            {
+                "city_code": "NCN",
+                "city_name": "Narnaul"
+            },
+            {
+                "city_code": "N18",
+                "city_name": "Palwal"
+            },
+            {
+                "city_code": "N26",
+                "city_name": "Panchkula"
+            },
+            {
+                "city_code": "N69",
+                "city_name": "Panipat"
+            },
+            {
+                "city_code": "N13",
+                "city_name": "Rewari"
+            },
+            {
+                "city_code": "N12",
+                "city_name": "Rohtak"
+            },
+            {
+                "city_code": "NCT",
+                "city_name": "SOHNA"
+            },
+            {
+                "city_code": "NAL",
+                "city_name": "Safidon"
+            },
+            {
+                "city_code": "N27",
+                "city_name": "Sirsa"
+            },
+            {
+                "city_code": "N14",
+                "city_name": "Sonipat"
+            },
+            {
+                "city_code": "N25",
+                "city_name": "Yamunanagar"
+            }
+        ]
+    },
+    {
+        "state_code": "HP",
+        "state_name": "Himachal Pradesh",
+        "cities": [
+            {
+                "city_code": "NDY",
+                "city_name": "BILASPUR-HP"
+            },
+            {
+                "city_code": "N83",
+                "city_name": "Hamirpur"
+            },
+            {
+                "city_code": "N82",
+                "city_name": "Kangra"
+            },
+            {
+                "city_code": "NCM",
+                "city_name": "Kullu"
+            },
+            {
+                "city_code": "N80",
+                "city_name": "Mandi"
+            },
+            {
+                "city_code": "N05",
+                "city_name": "Shimla"
+            },
+            {
+                "city_code": "N81",
+                "city_name": "Solan"
+            },
+            {
+                "city_code": "NDZ",
+                "city_name": "Una"
+            }
+        ]
+    },
+    {
+        "state_code": "JK",
+        "state_name": "Jammu and Kashmir",
+        "cities": [
+            {
+                "city_code": "NEF",
+                "city_name": "Anantnag"
+            },
+            {
+                "city_code": "N50",
+                "city_name": "Jammu"
+            },
+            {
+                "city_code": "NAK",
+                "city_name": "Rajouri"
+            },
+            {
+                "city_code": "N51",
+                "city_name": "Srinagar"
+            },
+            {
+                "city_code": "NEN",
+                "city_name": "UDHAMPUR"
+            }
+        ]
+    },
+    {
+        "state_code": "JH",
+        "state_name": "Jharkhand",
+        "cities": [
+            {
+                "city_code": "E64",
+                "city_name": "Bokaro"
+            },
+            {
+                "city_code": "EBA",
+                "city_name": "DALTONGANJ"
+            },
+            {
+                "city_code": "EBB",
+                "city_name": "DEOGHAR"
+            },
+            {
+                "city_code": "E62",
+                "city_name": "Dhanbad"
+            },
+            {
+                "city_code": "E84",
+                "city_name": "Giridih"
+            },
+            {
+                "city_code": "E67",
+                "city_name": "Hazaribagh"
+            },
+            {
+                "city_code": "E61",
+                "city_name": "Jamshedpur"
+            },
+            {
+                "city_code": "EAL",
+                "city_name": "RAMGARH"
+            },
+            {
+                "city_code": "E63",
+                "city_name": "Ranchi"
+            }
+        ]
+    },
+    {
+        "state_code": "KA",
+        "state_name": "Karnataka",
+        "cities": [
+            {
+                "city_code": "SJB",
+                "city_name": "Aavalahalli- Bangalore"
+            },
+            {
+                "city_code": "SDZ",
+                "city_name": "BAGALKOT"
+            },
+            {
+                "city_code": "S86",
+                "city_name": "Ballari"
+            },
+            {
+                "city_code": "S80",
+                "city_name": "Bangalore"
+            },
+            {
+                "city_code": "S88",
+                "city_name": "Belgaum"
+            },
+            {
+                "city_code": "SBI",
+                "city_name": "Bijapur"
+            },
+            {
+                "city_code": "SCN",
+                "city_name": "CHICKMANGALUR"
+            },
+            {
+                "city_code": "SAJ",
+                "city_name": "Chitradurga"
+            },
+            {
+                "city_code": "SCR",
+                "city_name": "DAVANAGERE"
+            },
+            {
+                "city_code": "S85",
+                "city_name": "Gulbarga"
+            },
+            {
+                "city_code": "SBU",
+                "city_name": "Hassan"
+            },
+            {
+                "city_code": "S90",
+                "city_name": "Hospet"
+            },
+            {
+                "city_code": "S81",
+                "city_name": "Hubli"
+            },
+            {
+                "city_code": "SEQ",
+                "city_name": "KUSHAL NAGAR"
+            },
+            {
+                "city_code": "SCM",
+                "city_name": "Kolar"
+            },
+            {
+                "city_code": "SCQ",
+                "city_name": "Mandya"
+            },
+            {
+                "city_code": "S82",
+                "city_name": "Mangalore"
+            },
+            {
+                "city_code": "S83",
+                "city_name": "Mysore"
+            },
+            {
+                "city_code": "SEF",
+                "city_name": "Puttur"
+            },
+            {
+                "city_code": "SBR",
+                "city_name": "Raichur"
+            },
+            {
+                "city_code": "SJA",
+                "city_name": "Sarjapur - Bangalore"
+            },
+            {
+                "city_code": "S84",
+                "city_name": "Shimoga"
+            },
+            {
+                "city_code": "SBH",
+                "city_name": "Sirsi"
+            },
+            {
+                "city_code": "SCS",
+                "city_name": "Tumkur"
+            },
+            {
+                "city_code": "S87",
+                "city_name": "Udupi"
+            }
+        ]
+    },
+    {
+        "state_code": "KL",
+        "state_name": "Kerala",
+        "cities": [
+            {
+                "city_code": "SAA",
+                "city_name": "Alappuzha"
+            },
+            {
+                "city_code": "SIN",
+                "city_name": "Attingal"
+            },
+            {
+                "city_code": "S70",
+                "city_name": "Calicut"
+            },
+            {
+                "city_code": "S72",
+                "city_name": "Cochin"
+            },
+            {
+                "city_code": "SIR",
+                "city_name": "Kanjirappally"
+            },
+            {
+                "city_code": "S75",
+                "city_name": "Kannur"
+            },
+            {
+                "city_code": "S92",
+                "city_name": "Kasaragod"
+            },
+            {
+                "city_code": "S29",
+                "city_name": "Kayamkulam"
+            },
+            {
+                "city_code": "S91",
+                "city_name": "Kollam"
+            },
+            {
+                "city_code": "S09",
+                "city_name": "Kondotty"
+            },
+            {
+                "city_code": "S74",
+                "city_name": "Kottayam"
+            },
+            {
+                "city_code": "S79",
+                "city_name": "Malappuram"
+            },
+            {
+                "city_code": "S77",
+                "city_name": "Muvattupuzha"
+            },
+            {
+                "city_code": "SNM",
+                "city_name": "Nilamel"
+            },
+            {
+                "city_code": "S76",
+                "city_name": "Palakkad"
+            },
+            {
+                "city_code": "SIM",
+                "city_name": "Thodupuzha"
+            },
+            {
+                "city_code": "S73",
+                "city_name": "Thrissur"
+            },
+            {
+                "city_code": "SIL",
+                "city_name": "Tirur"
+            },
+            {
+                "city_code": "S71",
+                "city_name": "Trivandrum"
+            },
+            {
+                "city_code": "SGC",
+                "city_name": "VADAKARA"
+            },
+            {
+                "city_code": "SIK",
+                "city_name": "Vadanappally"
+            }
+        ]
+    },
+    {
+        "state_code": "MP",
+        "state_name": "Madhya Pradesh",
+        "cities": [
+            {
+                "city_code": "WAF",
+                "city_name": "Balaghat"
+            },
+            {
+                "city_code": "W50",
+                "city_name": "Bhopal"
+            },
+            {
+                "city_code": "WFG",
+                "city_name": "Chhatarpur"
+            },
+            {
+                "city_code": "W59",
+                "city_name": "Chhindwara"
+            },
+            {
+                "city_code": "WDB",
+                "city_name": "DAMOH"
+            },
+            {
+                "city_code": "W66",
+                "city_name": "Guna"
+            },
+            {
+                "city_code": "W53",
+                "city_name": "Gwalior"
+            },
+            {
+                "city_code": "W51",
+                "city_name": "Indore"
+            },
+            {
+                "city_code": "W52",
+                "city_name": "Jabalpur"
+            },
+            {
+                "city_code": "WCZ",
+                "city_name": "Khargone"
+            },
+            {
+                "city_code": "WDA",
+                "city_name": "Neemuch"
+            },
+            {
+                "city_code": "W57",
+                "city_name": "Ratlam"
+            },
+            {
+                "city_code": "WAC",
+                "city_name": "Rewa"
+            },
+            {
+                "city_code": "W63",
+                "city_name": "Sagar"
+            },
+            {
+                "city_code": "W55",
+                "city_name": "Satna"
+            },
+            {
+                "city_code": "WCY",
+                "city_name": "Shahdol"
+            },
+            {
+                "city_code": "WFN",
+                "city_name": "Singrauli"
+            },
+            {
+                "city_code": "WDE",
+                "city_name": "UJJAIN"
+            },
+            {
+                "city_code": "W81",
+                "city_name": "Vidisha"
+            }
+        ]
+    },
+    {
+        "state_code": "MH",
+        "state_name": "Maharashtra",
+        "cities": [
+            {
+                "city_code": "W27",
+                "city_name": "Ahmednagar"
+            },
+            {
+                "city_code": "W42",
+                "city_name": "Akola"
+            },
+            {
+                "city_code": "W38",
+                "city_name": "Amravati"
+            },
+            {
+                "city_code": "WBT",
+                "city_name": "BEED"
+            },
+            {
+                "city_code": "W72",
+                "city_name": "Baramati"
+            },
+            {
+                "city_code": "WFB",
+                "city_name": "Chakan"
+            },
+            {
+                "city_code": "W29",
+                "city_name": "Chandrapur"
+            },
+            {
+                "city_code": "W24",
+                "city_name": "Chhatrapati Sambhajinagar"
+            },
+            {
+                "city_code": "WGP",
+                "city_name": "Dharashiv"
+            },
+            {
+                "city_code": "W43",
+                "city_name": "Dhule"
+            },
+            {
+                "city_code": "WBK",
+                "city_name": "Dombivli"
+            },
+            {
+                "city_code": "WGQ",
+                "city_name": "Gadchiroli"
+            },
+            {
+                "city_code": "WBB",
+                "city_name": "Gondia"
+            },
+            {
+                "city_code": "W19",
+                "city_name": "Ichalkaranji"
+            },
+            {
+                "city_code": "WBV",
+                "city_name": "JALNA"
+            },
+            {
+                "city_code": "W28",
+                "city_name": "Jalgaon"
+            },
+            {
+                "city_code": "WDL",
+                "city_name": "KHARGHAR"
+            },
+            {
+                "city_code": "W95",
+                "city_name": "Kalyan"
+            },
+            {
+                "city_code": "WGO",
+                "city_name": "Khamgaon"
+            },
+            {
+                "city_code": "W21",
+                "city_name": "Kolhapur"
+            },
+            {
+                "city_code": "WBW",
+                "city_name": "Latur"
+            },
+            {
+                "city_code": "WAZ",
+                "city_name": "Malegaon"
+            },
+            {
+                "city_code": "W10",
+                "city_name": "Mumbai"
+            },
+            {
+                "city_code": "WBO",
+                "city_name": "NAVI MUMBAI"
+            },
+            {
+                "city_code": "W20",
+                "city_name": "Nagpur"
+            },
+            {
+                "city_code": "W41",
+                "city_name": "Nanded"
+            },
+            {
+                "city_code": "WGB",
+                "city_name": "Nandurbar"
+            },
+            {
+                "city_code": "W25",
+                "city_name": "Nashik"
+            },
+            {
+                "city_code": "W70",
+                "city_name": "Panvel"
+            },
+            {
+                "city_code": "W22",
+                "city_name": "Pune"
+            },
+            {
+                "city_code": "WBQ",
+                "city_name": "Ratnagiri"
+            },
+            {
+                "city_code": "WBX",
+                "city_name": "Sangamner"
+            },
+            {
+                "city_code": "W46",
+                "city_name": "Sangli"
+            },
+            {
+                "city_code": "W48",
+                "city_name": "Satara"
+            },
+            {
+                "city_code": "W45",
+                "city_name": "Solapur"
+            },
+            {
+                "city_code": "W26",
+                "city_name": "Thane"
+            },
+            {
+                "city_code": "WBN",
+                "city_name": "Vasai"
+            },
+            {
+                "city_code": "WBC",
+                "city_name": "Washim"
+            },
+            {
+                "city_code": "WBA",
+                "city_name": "Yavatmal"
+            }
+        ]
+    },
+    {
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "cities": [
+            {
+                "city_code": "E46",
+                "city_name": "Imphal"
+            }
+        ]
+    },
+    {
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "cities": [
+            {
+                "city_code": "E43",
+                "city_name": "Shillong"
+            }
+        ]
+    },
+    {
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "cities": [
+            {
+                "city_code": "E42",
+                "city_name": "Aizawl"
+            }
+        ]
+    },
+    {
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "cities": [
+            {
+                "city_code": "E44",
+                "city_name": "Dimapur"
+            }
+        ]
+    },
+    {
+        "state_code": "OR",
+        "state_name": "Odisha",
+        "cities": [
+            {
+                "city_code": "EAM",
+                "city_name": "Angul"
+            },
+            {
+                "city_code": "EAP",
+                "city_name": "Balangir"
+            },
+            {
+                "city_code": "E78",
+                "city_name": "Balasore"
+            },
+            {
+                "city_code": "E74",
+                "city_name": "Berhampur"
+            },
+            {
+                "city_code": "EDM",
+                "city_name": "Bhadrak"
+            },
+            {
+                "city_code": "ECY",
+                "city_name": "Bhawanipatna"
+            },
+            {
+                "city_code": "E70",
+                "city_name": "Bhubaneshwar"
+            },
+            {
+                "city_code": "E72",
+                "city_name": "Cuttack"
+            },
+            {
+                "city_code": "EDC",
+                "city_name": "Jeypore"
+            },
+            {
+                "city_code": "ECB",
+                "city_name": "KEONJHAR"
+            },
+            {
+                "city_code": "EEF",
+                "city_name": "Panikoili"
+            },
+            {
+                "city_code": "E73",
+                "city_name": "Rourkela"
+            },
+            {
+                "city_code": "E71",
+                "city_name": "Sambalpur"
+            }
+        ]
+    },
+    {
+        "state_code": "PY",
+        "state_name": "Puducherry",
+        "cities": [
+            {
+                "city_code": "S20",
+                "city_name": "Puducherry"
+            }
+        ]
+    },
+    {
+        "state_code": "PB",
+        "state_name": "Punjab",
+        "cities": [
+            {
+                "city_code": "N63",
+                "city_name": "Amritsar"
+            },
+            {
+                "city_code": "NFH",
+                "city_name": "BARNALA"
+            },
+            {
+                "city_code": "NES",
+                "city_name": "BATALA"
+            },
+            {
+                "city_code": "N66",
+                "city_name": "Bathinda"
+            },
+            {
+                "city_code": "NEV",
+                "city_name": "DASUYA"
+            },
+            {
+                "city_code": "NFE",
+                "city_name": "FARIDKOT"
+            },
+            {
+                "city_code": "N79",
+                "city_name": "Ferozepur"
+            },
+            {
+                "city_code": "N67",
+                "city_name": "Hoshiarpur"
+            },
+            {
+                "city_code": "N61",
+                "city_name": "Jalandhar"
+            },
+            {
+                "city_code": "NEY",
+                "city_name": "KAPURTHALA"
+            },
+            {
+                "city_code": "N60",
+                "city_name": "Ludhiana"
+            },
+            {
+                "city_code": "N71",
+                "city_name": "Moga"
+            },
+            {
+                "city_code": "N72",
+                "city_name": "Mohali"
+            },
+            {
+                "city_code": "NJG",
+                "city_name": "Nawanshahr"
+            },
+            {
+                "city_code": "N65",
+                "city_name": "Pathankot"
+            },
+            {
+                "city_code": "N62",
+                "city_name": "Patiala"
+            },
+            {
+                "city_code": "N98",
+                "city_name": "Ropar"
+            },
+            {
+                "city_code": "N76",
+                "city_name": "Sangrur"
+            },
+            {
+                "city_code": "NDR",
+                "city_name": "Zirakpur"
+            }
+        ]
+    },
+    {
+        "state_code": "RJ",
+        "state_name": "Rajasthan",
+        "cities": [
+            {
+                "city_code": "N46",
+                "city_name": "Ajmer"
+            },
+            {
+                "city_code": "N45",
+                "city_name": "Alwar"
+            },
+            {
+                "city_code": "NGI",
+                "city_name": "BANSWARA"
+            },
+            {
+                "city_code": "NFP",
+                "city_name": "BHIWADI"
+            },
+            {
+                "city_code": "NBT",
+                "city_name": "Balotra"
+            },
+            {
+                "city_code": "N97",
+                "city_name": "Bharatpur"
+            },
+            {
+                "city_code": "N49",
+                "city_name": "Bhilwara"
+            },
+            {
+                "city_code": "N44",
+                "city_name": "Bikaner"
+            },
+            {
+                "city_code": "NBU",
+                "city_name": "Bundi"
+            },
+            {
+                "city_code": "N57",
+                "city_name": "Chittorgarh"
+            },
+            {
+                "city_code": "NAM",
+                "city_name": "Churu"
+            },
+            {
+                "city_code": "NAP",
+                "city_name": "Dausa"
+            },
+            {
+                "city_code": "NFS",
+                "city_name": "HANUMANGARH"
+            },
+            {
+                "city_code": "NJH",
+                "city_name": "Hindaun"
+            },
+            {
+                "city_code": "NHO",
+                "city_name": "JALORE"
+            },
+            {
+                "city_code": "NFX",
+                "city_name": "JHALAWAR"
+            },
+            {
+                "city_code": "N40",
+                "city_name": "Jaipur"
+            },
+            {
+                "city_code": "N86",
+                "city_name": "Jhunjhunu"
+            },
+            {
+                "city_code": "N41",
+                "city_name": "Jodhpur"
+            },
+            {
+                "city_code": "N43",
+                "city_name": "Kota"
+            },
+            {
+                "city_code": "NIR",
+                "city_name": "Kuchaman City"
+            },
+            {
+                "city_code": "NIG",
+                "city_name": "Nagaur"
+            },
+            {
+                "city_code": "NBX",
+                "city_name": "Pali"
+            },
+            {
+                "city_code": "NBF",
+                "city_name": "Rajsamand"
+            },
+            {
+                "city_code": "NGE",
+                "city_name": "Sawai Madhopur"
+            },
+            {
+                "city_code": "N78",
+                "city_name": "Sikar"
+            },
+            {
+                "city_code": "N58",
+                "city_name": "Sri Ganganagar"
+            },
+            {
+                "city_code": "NGD",
+                "city_name": "TONK"
+            },
+            {
+                "city_code": "N42",
+                "city_name": "Udaipur"
+            }
+        ]
+    },
+    {
+        "state_code": "SK",
+        "state_name": "Sikkim",
+        "cities": [
+            {
+                "city_code": "EED",
+                "city_name": "Gangtok"
+            }
+        ]
+    },
+    {
+        "state_code": "TN",
+        "state_name": "Tamil Nadu",
+        "cities": [
+            {
+                "city_code": "S10",
+                "city_name": "Chennai"
+            },
+            {
+                "city_code": "S43",
+                "city_name": "Coimbatore"
+            },
+            {
+                "city_code": "SDC",
+                "city_name": "Cuddalore"
+            },
+            {
+                "city_code": "S44",
+                "city_name": "Erode"
+            },
+            {
+                "city_code": "SIP",
+                "city_name": "Guduvancheri"
+            },
+            {
+                "city_code": "S89",
+                "city_name": "Hosur"
+            },
+            {
+                "city_code": "SCY",
+                "city_name": "Karaikudi"
+            },
+            {
+                "city_code": "S32",
+                "city_name": "Karur"
+            },
+            {
+                "city_code": "SCK",
+                "city_name": "Kumbakonam"
+            },
+            {
+                "city_code": "S41",
+                "city_name": "Madurai"
+            },
+            {
+                "city_code": "SDH",
+                "city_name": "Marthandam"
+            },
+            {
+                "city_code": "S47",
+                "city_name": "Nagercoil"
+            },
+            {
+                "city_code": "SDJ",
+                "city_name": "Namakkal"
+            },
+            {
+                "city_code": "S26",
+                "city_name": "Ooty"
+            },
+            {
+                "city_code": "SBF",
+                "city_name": "Perambalur"
+            },
+            {
+                "city_code": "S33",
+                "city_name": "Pollachi"
+            },
+            {
+                "city_code": "SIT",
+                "city_name": "Pudukkottai"
+            },
+            {
+                "city_code": "SJC",
+                "city_name": "Red hills - Chennai"
+            },
+            {
+                "city_code": "S40",
+                "city_name": "Salem"
+            },
+            {
+                "city_code": "S48",
+                "city_name": "Thanjavur"
+            },
+            {
+                "city_code": "SJD",
+                "city_name": "Thoothukudi"
+            },
+            {
+                "city_code": "S42",
+                "city_name": "Tirunelveli"
+            },
+            {
+                "city_code": "S39",
+                "city_name": "Tirupur"
+            },
+            {
+                "city_code": "S45",
+                "city_name": "Trichy"
+            },
+            {
+                "city_code": "S46",
+                "city_name": "Vellore"
+            },
+            {
+                "city_code": "SDE",
+                "city_name": "Villupuram"
+            },
+            {
+                "city_code": "SIO",
+                "city_name": "Virudhunagar"
+            }
+        ]
+    },
+    {
+        "state_code": "TS",
+        "state_name": "Telangana",
+        "cities": [
+            {
+                "city_code": "S50",
+                "city_name": "Hyderabad"
+            },
+            {
+                "city_code": "SEK",
+                "city_name": "KHAMMAM"
+            },
+            {
+                "city_code": "S58",
+                "city_name": "Karimnagar"
+            },
+            {
+                "city_code": "SEH",
+                "city_name": "MANCHERIAL"
+            },
+            {
+                "city_code": "SCA",
+                "city_name": "Mahbubnagar"
+            },
+            {
+                "city_code": "S60",
+                "city_name": "Nalgonda"
+            },
+            {
+                "city_code": "S59",
+                "city_name": "Nizamabad"
+            },
+            {
+                "city_code": "SEJ",
+                "city_name": "Secunderabad"
+            },
+            {
+                "city_code": "SIY",
+                "city_name": "Shadnagar"
+            },
+            {
+                "city_code": "S55",
+                "city_name": "Warangal"
+            }
+        ]
+    },
+    {
+        "state_code": "UP",
+        "state_name": "Uttar Pradesh",
+        "cities": [
+            {
+                "city_code": "N33",
+                "city_name": "Agra"
+            },
+            {
+                "city_code": "N29",
+                "city_name": "Aligarh"
+            },
+            {
+                "city_code": "N36",
+                "city_name": "Allahabad"
+            },
+            {
+                "city_code": "NBN",
+                "city_name": "Azamgarh"
+            },
+            {
+                "city_code": "NAC",
+                "city_name": "Baraut"
+            },
+            {
+                "city_code": "N32",
+                "city_name": "Bareilly"
+            },
+            {
+                "city_code": "NAT",
+                "city_name": "Basti"
+            },
+            {
+                "city_code": "NDF",
+                "city_name": "Bijnor"
+            },
+            {
+                "city_code": "NHT",
+                "city_name": "DEORIA"
+            },
+            {
+                "city_code": "N96",
+                "city_name": "Etawah"
+            },
+            {
+                "city_code": "NDC",
+                "city_name": "FARRUKHABAD"
+            },
+            {
+                "city_code": "NHS",
+                "city_name": "FIROZABAD"
+            },
+            {
+                "city_code": "N92",
+                "city_name": "Faizabad"
+            },
+            {
+                "city_code": "N90",
+                "city_name": "Ghaziabad"
+            },
+            {
+                "city_code": "N39",
+                "city_name": "Gorakhpur"
+            },
+            {
+                "city_code": "N95",
+                "city_name": "Greater Noida"
+            },
+            {
+                "city_code": "NCS",
+                "city_name": "Hapur"
+            },
+            {
+                "city_code": "NBV",
+                "city_name": "Hardoi"
+            },
+            {
+                "city_code": "NAA",
+                "city_name": "Jaunpur"
+            },
+            {
+                "city_code": "N47",
+                "city_name": "Jhansi"
+            },
+            {
+                "city_code": "N31",
+                "city_name": "Kanpur"
+            },
+            {
+                "city_code": "N30",
+                "city_name": "Lucknow"
+            },
+            {
+                "city_code": "NDJ",
+                "city_name": "MIRZAPUR"
+            },
+            {
+                "city_code": "N93",
+                "city_name": "Mathura"
+            },
+            {
+                "city_code": "NHG",
+                "city_name": "Mau"
+            },
+            {
+                "city_code": "N34",
+                "city_name": "Meerut"
+            },
+            {
+                "city_code": "N28",
+                "city_name": "Moradabad"
+            },
+            {
+                "city_code": "N54",
+                "city_name": "Muzaffarnagar"
+            },
+            {
+                "city_code": "N35",
+                "city_name": "Noida"
+            },
+            {
+                "city_code": "NAX",
+                "city_name": "Orai"
+            },
+            {
+                "city_code": "NDM",
+                "city_name": "Pilibhit"
+            },
+            {
+                "city_code": "NCX",
+                "city_name": "Pratapgarh"
+            },
+            {
+                "city_code": "N09",
+                "city_name": "Raibareli"
+            },
+            {
+                "city_code": "N19",
+                "city_name": "Robertsganj"
+            },
+            {
+                "city_code": "NHU",
+                "city_name": "SIDDHARTHNAGAR"
+            },
+            {
+                "city_code": "NDI",
+                "city_name": "SULTANPUR"
+            },
+            {
+                "city_code": "NBK",
+                "city_name": "Sahajanpur"
+            },
+            {
+                "city_code": "N52",
+                "city_name": "Saharanpur"
+            },
+            {
+                "city_code": "NBD",
+                "city_name": "Shamli"
+            },
+            {
+                "city_code": "NCH",
+                "city_name": "Sitapur"
+            },
+            {
+                "city_code": "N38",
+                "city_name": "Varanasi"
+            }
+        ]
+    },
+    {
+        "state_code": "UK",
+        "state_name": "Uttarakhand",
+        "cities": [
+            {
+                "city_code": "N37",
+                "city_name": "Dehradun"
+            },
+            {
+                "city_code": "N91",
+                "city_name": "Haldwani"
+            },
+            {
+                "city_code": "N85",
+                "city_name": "Haridwar"
+            },
+            {
+                "city_code": "N48",
+                "city_name": "Roorkee"
+            },
+            {
+                "city_code": "N94",
+                "city_name": "Rudrapur"
+            },
+            {
+                "city_code": "NAV",
+                "city_name": "Vikasnagar"
+            }
+        ]
+    },
+    {
+        "state_code": "WB",
+        "state_name": "West Bengal",
+        "cities": [
+            {
+                "city_code": "E12",
+                "city_name": "Asansol"
+            },
+            {
+                "city_code": "EBH",
+                "city_name": "Barasat"
+            },
+            {
+                "city_code": "E17",
+                "city_name": "Berhampore"
+            },
+            {
+                "city_code": "EDZ",
+                "city_name": "Burdwan"
+            },
+            {
+                "city_code": "E16",
+                "city_name": "Durgapur"
+            },
+            {
+                "city_code": "E76",
+                "city_name": "Howrah"
+            },
+            {
+                "city_code": "E13",
+                "city_name": "Kharagpur"
+            },
+            {
+                "city_code": "E10",
+                "city_name": "Kolkata"
+            },
+            {
+                "city_code": "E11",
+                "city_name": "Siliguri"
+            }
+        ]
+    }
+]
